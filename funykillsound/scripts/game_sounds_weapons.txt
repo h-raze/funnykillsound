@@ -7703,6 +7703,8 @@
 		"wave"	")ui/kill143.wav"
 		"wave"	")ui/kill144.wav"
 		"wave"	")ui/kill145.wav"
+		"wave"	")ui/kill146.wav"
+		"wave"	")ui/kill147.wav"
 	}
 }
 
