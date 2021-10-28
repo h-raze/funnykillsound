@@ -7690,6 +7690,19 @@
 		"wave"	")ui/kill130.wav"
 		"wave"	")ui/kill131.wav"
 		"wave"	")ui/kill132.wav"
+		"wave"	")ui/kill133.wav"
+		"wave"	")ui/kill134.wav"
+		"wave"	")ui/kill135.wav"
+		"wave"	")ui/kill136.wav"
+		"wave"	")ui/kill137.wav"
+		"wave"	")ui/kill138.wav"
+		"wave"	")ui/kill139.wav"
+		"wave"	")ui/kill140.wav"
+		"wave"	")ui/kill141.wav"
+		"wave"	")ui/kill142.wav"
+		"wave"	")ui/kill143.wav"
+		"wave"	")ui/kill144.wav"
+		"wave"	")ui/kill145.wav"
 	}
 }
 
