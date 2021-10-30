@@ -7705,6 +7705,12 @@
 		"wave"	")ui/kill145.wav"
 		"wave"	")ui/kill146.wav"
 		"wave"	")ui/kill147.wav"
+		"wave"	")ui/kill148.wav"
+		"wave"	")ui/kill149.wav"
+		"wave"	")ui/kill150.wav"
+		"wave"	")ui/kill151.wav"
+		"wave"	")ui/kill152.wav"
+		"wave"	")ui/kill153.wav"
 	}
 }
 
