@@ -7722,6 +7722,10 @@
 		"wave"	")ui/kill162.wav"
 		"wave"	")ui/kill163.wav"
 		"wave"	")ui/kill164.wav"
+		"wave"	")ui/kill165.wav"
+		"wave"	")ui/kill166.wav"
+		"wave"	")ui/kill167.wav"
+		"wave"	")ui/kill168.wav"
 	}
 }
 
