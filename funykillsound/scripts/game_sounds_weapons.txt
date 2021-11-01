@@ -7719,6 +7719,9 @@
 		"wave"	")ui/kill159.wav"
 		"wave"	")ui/kill160.wav"
 		"wave"	")ui/kill161.wav"
+		"wave"	")ui/kill162.wav"
+		"wave"	")ui/kill163.wav"
+		"wave"	")ui/kill164.wav"
 	}
 }
 
