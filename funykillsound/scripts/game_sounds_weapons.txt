@@ -7750,6 +7750,13 @@
 		"wave"	")ui/kill190.wav"
 		"wave"	")ui/kill191.wav"
 		"wave"	")ui/kill192.wav"
+		"wave"	")ui/kill193.wav"
+		"wave"	")ui/kill194.wav"
+		"wave"	")ui/kill195.wav"
+		"wave"	")ui/kill196.wav"
+		"wave"	")ui/kill197.wav"
+		"wave"	")ui/kill198.wav"
+		"wave"	")ui/kill199.wav"
 	}
 }
 
