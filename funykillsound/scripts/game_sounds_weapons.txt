@@ -7775,6 +7775,7 @@
 		"wave"	")ui/kill215.wav"
 		"wave"	")ui/kill216.wav"
 		"wave"	")ui/kill217.wav"
+		"wave"	")ui/kill218.wav"
 	}
 }
 
