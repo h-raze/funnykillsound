@@ -17,3 +17,6 @@ How to download as zip//
 Folder structure, EXTRACT IT FIRST FROM THE ZIP// 
 
 ![Folder structure](https://i.imgur.com/xZXLel0.png)
+
+
+![Folder structure](https://i.imgur.com/L68RViM.png)
