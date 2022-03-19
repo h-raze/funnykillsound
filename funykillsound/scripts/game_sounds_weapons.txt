@@ -7841,6 +7841,16 @@
 		"wave"	")ui/kill281.wav"
 		"wave"	")ui/kill282.wav"
 		"wave"	")ui/kill283.wav"
+		"wave"	")ui/kill284.wav"
+		"wave"	")ui/kill285.wav"
+		"wave"	")ui/kill286.wav"
+		"wave"	")ui/kill287.wav"
+		"wave"	")ui/kill288.wav"
+		"wave"	")ui/kill289.wav"
+		"wave"	")ui/kill290.wav"
+		"wave"	")ui/kill291.wav"
+		"wave"	")ui/kill292.wav"
+		"wave"	")ui/kill293.wav"
 
 	}
 }
