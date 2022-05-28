@@ -7857,6 +7857,9 @@
 		"wave"	")ui/kill297.wav"
 		"wave"	")ui/kill298.wav"
 		"wave"	")ui/kill299.wav"
+		"wave"	")ui/kill300.wav"
+		"wave"	")ui/kill301.wav"
+		"wave"	")ui/kill302.wav"
 
 	}
 }
