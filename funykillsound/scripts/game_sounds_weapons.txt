@@ -7860,7 +7860,17 @@
 		"wave"	")ui/kill300.wav"
 		"wave"	")ui/kill301.wav"
 		"wave"	")ui/kill302.wav"
-
+		"wave"	")ui/kill303.wav"
+		"wave"	")ui/kill304.wav"
+		"wave"	")ui/kill305.wav"
+		"wave"	")ui/kill306.wav"
+		"wave"	")ui/kill307.wav"
+		"wave"	")ui/kill308.wav"
+		"wave"	")ui/kill309.wav"
+		"wave"	")ui/kill310.wav"
+		"wave"	")ui/kill311.wav"
+		"wave"	")ui/kill312.wav"
+		"wave"	")ui/kill313.wav"
 	}
 }
 
