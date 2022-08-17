@@ -7896,6 +7896,15 @@
 		"wave"	")ui/kill336.wav"
 		"wave"	")ui/kill337.wav"
 		"wave"	")ui/kill338.wav"
+		"wave"	")ui/kill339.wav"
+		"wave"	")ui/kill340.wav"
+		"wave"	")ui/kill341.wav"
+		"wave"	")ui/kill342.wav"
+		"wave"	")ui/kill343.wav"
+		"wave"	")ui/kill344.wav"
+		"wave"	")ui/kill345.wav"
+		"wave"	")ui/kill346.wav"
+		"wave"	")ui/kill347.wav"
 	}
 }
 
