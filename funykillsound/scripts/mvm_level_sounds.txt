@@ -7910,6 +7910,11 @@
 		"wave"	")ui/kill345.wav"
 		"wave"	")ui/kill346.wav"
 		"wave"	")ui/kill347.wav"
+		"wave"	")ui/kill348.wav"
+		"wave"	")ui/kill349.wav"
+		"wave"	")ui/kill350.wav"
+		"wave"	")ui/kill351.wav"
+		"wave"	")ui/kill352.wav"
 	}
 }
 
