@@ -7980,6 +7980,9 @@
 		"wave"	")ui/kill420.wav"
 		"wave"	")ui/kill421.wav"
 		"wave"	")ui/kill422.wav"
+		"wave"	")ui/kill423.wav"
+		"wave"	")ui/kill424.wav"
+		"wave"	")ui/kill425.wav"
 	}
 }
 
