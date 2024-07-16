@@ -1,7 +1,7 @@
 # funnykillsound
  funny epic hilarious (super funny) tf2 random killsounds pack
 
-This pack features 400+ random killsounds that play randomly. Selected by me and my friends.  <- lying there are now around 330
+This pack features 400+ random killsounds that play randomly. Selected by me and my friends.  <- lying there are now around 353 (removed some)
 
 ## How to install:
 ```
